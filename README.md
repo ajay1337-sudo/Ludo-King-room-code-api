@@ -19,7 +19,7 @@ echo $token
 ?>
 nodejs
 example -
-await axios.get('http://165.22.211.82:3011/api/popular/roomcode')
+await axios.get('http://165.22.211.82:3001/api/roomcode')
                 .then(res => {
                     if (res.status == 200) {
                         localGame.Room_code = res.data.room_code;
