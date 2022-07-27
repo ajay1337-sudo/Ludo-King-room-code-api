@@ -32,4 +32,4 @@ await axios.get('http://165.22.211.82:3001/api/roomcode')
         }
 
 more more info contact me
-my email -  	sudo1337@countermail.com
+my email -  	 susudo1337@protonmail.com
